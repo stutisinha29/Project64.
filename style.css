@@ -1,0 +1,7 @@
+.marqueeStyle {
+    background-color: chocolate;
+    text-decoration-color: aliceblue;
+    margin-top: inherit;
+    z-index: 99999; 
+    margin-bottom: inherit;
+}
